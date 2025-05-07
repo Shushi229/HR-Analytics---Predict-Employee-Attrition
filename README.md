@@ -82,24 +82,37 @@ HR_Analytics/
 │
 ├── data/
 │   └── HR_Analytics.csv          # Raw dataset
+
 │
 ├── notebooks/
 │   ├── HR_EDA.ipynb              # Exploratory data analysis
+
 │
 ├── visualizations/
 │   └── HR_Analytics_Dashboard.pbix # Power BI dashboard file
+
 │
 ├── reports/
 │   ├── Model_Accuracy_Report.pdf   # Model performance details
+
 │   └── Attrition_Prevention.pdf    # Recommended strategies
+
 │
 └── README.md                      # Project documentation
-Future Enhancements
+
+## Future Enhancements
 Implement more advanced models (XGBoost, Neural Networks)
 Conduct SHAP value analysis for deeper model interpretability
 Develop a real-time attrition risk monitoring system
 Integrate survey data for sentiment analysis
 Perform cohort analysis to track attrition trends over time
+
+## 📧 Contact
+
+Feel free to reach out with any questions or suggestions for improvement!
+
+- LinkedIn: [saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)
+- Email: saurabhu.2004@gmail.com
 
 
 
